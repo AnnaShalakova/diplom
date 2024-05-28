@@ -1,0 +1,64 @@
+{
+  "results": [{
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Александр",
+      "last": "Александров"
+    },
+    "location": {
+      "street": {
+        "number": 1529,
+        "name": "Anafartalar Cd"
+      },
+      "city": "Çanakkale",
+      "state": "Denizli",
+      "country": "Turkey",
+      "postcode": 66247,
+      "coordinates": {
+        "latitude": "66.5942",
+        "longitude": "-164.9774"
+      },
+      "timezone": {
+        "offset": "-8:00",
+        "description": "Pacific Time (US & Canada)"
+      }
+    },
+    "email": "gokhan.gunday@example.com",
+    "login": {
+      "uuid": "76221339-23a3-4f56-84df-9b841d2d2d39",
+      "username": "ticklishzebra615",
+      "password": "delilah",
+      "salt": "ilPm0tAH",
+      "md5": "e19924576230b2f29bca75a43255bc23",
+      "sha1": "125e78dc45e48765b0a184c6b224c8560c285f7d",
+      "sha256": "f44edf6f6154102ccae545f92ba1a8bb79e8bc48603d625bda85feb508151d0b"
+    },
+    "dob": {
+      "date": "1983-11-12T09:48:39.830Z",
+      "age": 40
+    },
+    "registered": {
+      "date": "2013-01-13T05:42:44.862Z",
+      "age": 11
+    },
+    "phone": "(181)-818-2616",
+    "cell": "(124)-640-4901",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/25.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+    },
+    "nat": "TR"
+  }],
+  "info": {
+    "seed": "5f9ff44238b8cc8e",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
